@@ -12,6 +12,7 @@ sap.ui.define([
 			properties: {
 				"value": {
 					type: "string",
+					defaultValue: ""
 				},
 				"iconURI": {
 					type: "string",
