@@ -1,6 +1,6 @@
 jQuery.sap.declare("my.custom.control.Book");
 //$.sap.includeStyleSheet("path/to/css/file");
-
+//test external git from SAPCP
 jQuery.sap.require("sap.ui.commons.Button");
 jQuery.sap.require("sap.ui.commons.Image");
 jQuery.sap.require("sap.ui.commons.RatingIndicator");
